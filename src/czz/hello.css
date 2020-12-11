@@ -1,0 +1,3 @@
+.hello {
+  @apply px-10 py-2 rounded font-semibold bg-black text-black;
+}
